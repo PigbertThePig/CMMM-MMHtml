@@ -2,7 +2,7 @@
 "companyName": "Milenakos",
 "productName": "CMMM+MM",
 "productVersion": "1.0.6",
-"dataUrl": "https://drive.google.com/file/d/1XhZwXpHHMsmujxVOq_6i0VfSDLptN_AC/view?usp=sharing",
+"dataUrl": "CMMM+MMHtmlBuild.data.unityweb",
 "wasmCodeUrl": "CMMM+MMHtmlBuild.wasm.code.unityweb",
 "wasmFrameworkUrl": "CMMM+MMHtmlBuild.wasm.framework.unityweb",
 "graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
